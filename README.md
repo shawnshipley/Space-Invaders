@@ -14,4 +14,4 @@ A side-by-side comparison of the original game and my version
 
 Left: Original | Right: Mine
 
-https://github.com/shawnshipley/Space-Invaders/raw/main/Scenes/Assets/CompareGameplay.mp4
+https://github.com/shawnshipley/Space-Invaders/assets/1195297/880679f7-9415-4d72-be50-53cb452af088
