@@ -15,5 +15,5 @@ A side-by-side comparison of the original game and my version
 Left: Original | Right: Mine
 
 <video width="640" height="480" controls>
-  <source src="Scenes/Assets/CompareGameplay.mp4" type="video/mp4">
+  <source src="https://github.com/shawnshipley/Space-Invaders/blob/main/Scenes/Assets/CompareGameplay.mp4" type="video/mp4">
 </video>
